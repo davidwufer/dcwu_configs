@@ -1,4 +1,6 @@
-setup
+Setup
 =====
 
-Default setup code that I use
+Rails
+-----
+rails myapp -T --database=postgresql
