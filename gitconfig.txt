@@ -1,0 +1,14 @@
+[user]
+	name = David Wu
+	email = davidcnwu@gmail.com
+[color]
+	ui = true
+[alias]
+	lg = log --pretty=oneline --graph
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	pr = pull --rebase
+[push]
+	default = simple
